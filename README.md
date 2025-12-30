@@ -7,3 +7,6 @@ This page links to after-round summaries available on [Sir Toby's mailing list a
 * [Round 167: Biotechnology](https://www.sir-toby.com/archives/FRC/2002-February/0435.html)
 * [Round 168: Building](https://www.sir-toby.com/archives/FRC/2001-September/0150.html)
 * [Round 169: Frantic Racing Chits](https://www.sir-toby.com/archives/FRC/2001-October/0265.html)
+* [Round 170: Alliteration](https://www.sir-toby.com/archives/FRC/2001-October/0285.html)
+  * [170:6, which was submitted late](https://www.sir-toby.com/archives/FRC/2001-October/0286.html)
+* [Round 171: Magic](https://www.sir-toby.com/archives/FRC/2001-November/0298.html)
