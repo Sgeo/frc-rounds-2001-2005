@@ -10,3 +10,12 @@ This page links to after-round summaries available on [Sir Toby's mailing list a
 * [Round 170: Alliteration](https://www.sir-toby.com/archives/FRC/2001-October/0285.html)
   * [170:6, which was submitted late](https://www.sir-toby.com/archives/FRC/2001-October/0286.html)
 * [Round 171: Magic](https://www.sir-toby.com/archives/FRC/2001-November/0298.html)
+* Round 172: (Having trouble finding the summary, if there is one)
+* [Round 173: The Themeless Round](https://www.sir-toby.com/archives/FRC/2002-January/0382.html)
+* Round 175: (No summary)
+* [Round 176: Fantasy math(s)](https://www.sir-toby.com/archives/FRC/2002-February/0431.html)
+* [Round 177: What is the Theme of this Round?](https://www.sir-toby.com/archives/FRC/2002-February/0439.html)
+    * Only two rules, and only the first was VALID.
+* Round 178: No summary
+* [Round 179: Illusion or Reality?](https://www.sir-toby.com/archives/FRC/2002-March/0503.html)
+    * Includes the Judge determining the validity of rules in secret
